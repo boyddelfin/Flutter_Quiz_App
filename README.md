@@ -1,4 +1,4 @@
-# first_app
+# Quiz App | Udemy Flutter Course
 
 A new Flutter project.
 
